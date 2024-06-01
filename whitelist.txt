@@ -193,3 +193,7 @@ continuum.dds.microsoft.com
 connectivitycheck.gstatic.com
 connectivitycheck.android.com
 www.msftconnecttest.com
+api.mangadex.org
+uploads.mangadex.org
+mangadex.org
+nhentai.net
