@@ -1,0 +1,10 @@
+||doubleclick.net^$xhr,redirect-rule=noop.txt
+||doubleclick.net^
+||play.google.com/log
+||youtube.com/api/stats/qoe?
+||youtube.com/youtubei/v1/log_event?
+||youtube.com/api/stats/qoe?
+/pagead/1p-user-list/*
+||doubleclick.net^
+||youtube.com/pagead/
+||youtube.com/ptracking?
