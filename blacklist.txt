@@ -8,3 +8,5 @@
 ||doubleclick.net^
 ||youtube.com/pagead/
 ||youtube.com/ptracking?
+adservice.google.com
+ad.doubleclick.net
