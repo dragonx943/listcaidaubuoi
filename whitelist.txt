@@ -197,3 +197,4 @@ api.mangadex.org
 uploads.mangadex.org
 mangadex.org
 nhentai.net
+ngrok.io
