@@ -198,7 +198,4 @@ uploads.mangadex.org
 mangadex.org
 nhentai.net
 ngrok.io
-customerevents.netflix.com
-logs.netflix.com
-ichnaea.netflix.com
 apresolve.spotify.com
