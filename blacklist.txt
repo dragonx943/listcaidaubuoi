@@ -10,3 +10,44 @@
 ||youtube.com/ptracking?
 adservice.google.com
 ad.doubleclick.net
+! 2023-09-30 https://fvip.link
+||media.mpartners.asia/uploads/796-AFF-Sep_300x300_VN.gif$image
+||blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEpctg1dwLTzX5jAiSY3CPa5zucFttqyO4pMBWN5uAfKBBw9wrXTV057dKeQC6DVl0zZqgbkwpWolZj-6UdddgaZIlrtzfmOXMFkMLI2aaxIbIP3z5sg4a3vRHvJ8qpS58_7mtXNHoAR_auaVjqc6Sc7UcBfmQHdTNt1ADrdtLMCy0g9eG65YVuuR_nJL-/s728/ri8.gif$image
+||media.mpartners.asia/uploads/796-AFF-Sep_300x300_VN.gif$image
+youtube.com##+js(set, yt.config_.openPopupConfig.supportedPopups.adBlockMessageViewModel, false)
+youtube.com##+js(set, Object.prototype.adBlocksFound, 0)
+youtube.com##+js(set, ytplayer.config.args.raw_player_response.adPlacements, [])
+youtube.com##+js(set, Object.prototype.hasAllowedInstreamAd, true)
+www.youtube.com##+js(nano-stb, resolve(1), *, 0.001)
+! 2023-10-27 https://web1s.asia
+||cdn.bmcdn6.com/p/64ddf5a91d47782681eb026a/?source=https%253A%252F%252Fweb1s.asia%252FDnpHZ1MXan%252F&sourceid=766557527726&ent=&we=0&fid=375fce768303148a711f9eab6437ecc3&fidnoua=eec9a4c299aa40becac7e2636148082a&impid=c79520a4-d570-41a8-a7c6-4e04d5392e1d&sessionId=a081e283-7df4-4493-8e67-72d42f5b2454&pageViewUuid=9334012b-1687-4666-8048-3d397f5c41bc&ua=Mozilla%252F5.0%2520(Windows%2520NT%252010.0%253B%2520Win64%253B%2520x64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F118.0.0.0%2520Safari%252F537.36&sig=0x00000&blocksubid=0$subdocument
+! Youtube
+!#if (!adguard_app_windows && !adguard_app_mac && !adguard_app_android)
+www.youtube.com#%#//scriptlet('abort-on-stack-trace', 'btoa', '/[A-Za-z]lb \S+polymer/')
+! For the closable popup
+youtube.com#?#ytd-enforcement-message-view-model:has(> div.ytd-enforcement-message-view-model)
+youtube.com#$#tp-yt-iron-overlay-backdrop { display: none !important; }
+youtube.com#$?#tp-yt-paper-dialog:has(> ytd-enforcement-message-view-model > div.ytd-enforcement-message-view-model) { remove: true; }
+! For the overlay
+youtube.com#$#ytd-watch-flexy[player-unavailable] #player-container-outer.ytd-watch-flexy { visibility: visible !important; }
+youtube.com#$?#yt-playability-error-supported-renderers:has(yt-button-view-model[dialog-dismiss]) { display: none !important; }
+!#endif
+! 2024-02-14 https://top.gg
+||toppgg.nyc3.cdn.digitaloceanspaces.com/images/topgg-premium-header.png$image
+top.gg##.eFimHA.AditudeAdHeaderHero__AdContainer-sc-s24zf8-0
+top.gg##.hUUhkN.AditudeOutstreamVideoAside__AdContainer-sc-1mx0p1r-0
+top.gg##.gtaibM.AditudeOustreamVideoVote__AdContainer-sc-18pq5gq-0
+top.gg##div#ad-container.dIbFsY.AditudeAdMediumRect__AdContainer-sc-9wmwq1-0:nth-of-type(1)
+top.gg##div#ad-container.dIbFsY.AditudeAdMediumRect__AdContainer-sc-9wmwq1-0:nth-of-type(2)
+top.gg##.evBXmu.AditudeAdFloatingFooter__AdContainer-sc-58jfa-1
+! 2024-03-21 https://top.gg
+top.gg##.fhIZHu.AdOustreamVideoVote__AdContainer-sc-1tume0h-0
+top.gg##.Xxyyu.AdFloatingFooter__AdContainer-sc-x3jwtn-1
+! 2024-04-17 https://ask.fm
+||cbgd.ask.fm/aba/be1d8/c3f5/4371/bb98/b2e7b797eae1/original/2797740.jpg$image
+||cbgd.ask.fm/aba/be1d8/c3f5/4371/bb98/b2e7b797eae1/original/2797740.jpg$image
+ask.fm##.lightbox_overlay
+! 29 thg 5, 2024 https://www.photopea.com
+||play.google.com^$important
+||clients2.google.com^$important
+||clients2.google.com^$important
