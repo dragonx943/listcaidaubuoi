@@ -23324,3 +23324,4 @@ youtube.com#$?#tp-yt-paper-dialog:has(> ytd-enforcement-message-view-model > div
 youtube.com#$#ytd-watch-flexy[player-unavailable] #player-container-outer.ytd-watch-flexy { visibility: visible !important; }
 youtube.com#$?#yt-playability-error-supported-renderers:has(yt-button-view-model[dialog-dismiss]) { display: none !important; }
 !#endif
+! Địt mẹ Lynn_ và hội chơi chung của nó, chỉ có nói xấu sau lưng người khác là BẤT CMN TỬ! Thẳng thắn lên mà nói với tao này, tao chưa bao giờ cảm thấy như thế này kể cả khi có bị người khác gọi tao làm Dev trong khi bản thân của tao chưa bao giờ từng công nhận tao làm Dev, họ chỉ có nói xấu sau lưng tao và mày cũng thế, cũng chỉ là loại thấp hèn bị lũ simp lỏd bao vây bảo kê và tao thề rằng tao đéo bao giờ nghiêm túc thẳng thắn để nói chuyện hay đánh bật lại mày, tao khinh bỉ mày vãi cả lồn...
