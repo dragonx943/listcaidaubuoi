@@ -199,3 +199,4 @@ mangadex.org
 nhentai.net
 ngrok.io
 apresolve.spotify.com
+click.discord.com
